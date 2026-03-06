@@ -18,6 +18,8 @@ Create an arduino device to monitor Carbon Monoxide levels in a mechanic garage.
 * Data Sheet - https://cdn.sparkfun.com/assets/b/b/b/3/4/MQ-7.pdf 
 * Data Logger - https://www.sparkfun.com/sparkfun-openlog-with-headers.html 
 * Arduino Pro 5v - https://www.sparkfun.com/arduino-pro-mini-328-5v-16mhz.html 
+* Temperature and Humidity snesor - https://www.youtube.com/watch?v=pqAV3m_VinA 
+  * *Note: this is not exactly the same sensor, ours does not have the quiic connector*
 
 
 These resources were quick google searches, double check the items are accurate.
